@@ -6,3 +6,14 @@
 - Kmeans
 - PCA
 - tsne
+- Cosine similarity 
+- Google Knowledge Graph 
+- NMF 
+- PCA 
+- Sqllite 
+- WordNetGraph 
+- ft (fasttext)
+- GloVe 
+- Kmeans 
+- Skipgram 
+- tfidf (term frequency inversed document frequency)
